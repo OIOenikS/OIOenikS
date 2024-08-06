@@ -29,4 +29,4 @@
     ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white)
 
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OIOenikS&theme=default)-->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OIOenikS&theme=default)
