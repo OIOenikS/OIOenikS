@@ -29,5 +29,4 @@
     ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white)
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OIOenikS&theme=vue)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OIOenikS&theme=vue)  
+
